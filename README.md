@@ -5,6 +5,6 @@ Multi-tenancy utilities for Hyperstore.
 
 Just add it as a git submodule to your hyperstore-server
 
-    git add submodule https://github.com/Hyperyun/Multitenant.git
+    git submodule add https://github.com/Hyperyun/Multitenant.git
 
 Run your hyperstore-server with `-M` or `--multi`
